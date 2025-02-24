@@ -49,9 +49,3 @@ This visualization illustrates the range of possible NPVs under uncertainty:
 - **Matplotlib**: For creating the bar chart
 - **Seaborn**: For generating the histogram with density
 - **NumPy**: For random sampling in Monte Carlo simulation
-
-## Purpose
-This project aims to provide a clear, visual representation of M&A analysis results, incorporating advanced financial modeling techniques. By including debt, tax effects, and Monte Carlo simulation, it offers a comprehensive tool for understanding financial outcomes and assessing risk in acquisition scenarios.
-
----
-*Last updated: February 23, 2025*
